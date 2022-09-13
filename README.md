@@ -6,8 +6,6 @@
 [link](https://github.com/EriCUkr/https-github.com-Iryna-Kyrychenko-tab-repositories)
 #### Changed it twice. The deadline has ended.<br/> Not enough information.
 [link](https://github.com/EriCUkr/portfolio/tree/main/robotframework.correct)<br/>
-![kat logo](https://funart.pro/41164-kot-programmist-47-foto.html)
-
 ##### trying to figure it out and catch up
 [link](https://irynakyrychenko.atlassian.net/jira/software/projects/GI/boards/1)
 
